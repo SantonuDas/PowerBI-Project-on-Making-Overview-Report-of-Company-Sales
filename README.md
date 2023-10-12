@@ -1,1 +1,1 @@
-# PowerBI-Project-on-Making-Overview-Report-of-Company-Sales
+In This Project A Small Company, Dealing With Classic Models Of Motor Vehicles Want an Overview of Sales of the Company over Years to grow Their Bussiness With the Help of Data-Driven Insights. The Company Want a Proper Interactive Visual Report to Manage and Analyse Their Sales Data Effectively.  
